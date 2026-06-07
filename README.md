@@ -210,7 +210,7 @@ python app.py
 
 **Bhuvi Baheti**
 
-B.Tech(3rd year), Metallurgical and Material Engineering 
+B.Tech(3rd year), Metallurgical and Material Engineering <br>
 Indian Institute Of Technology, Roorkee
 
 ---
